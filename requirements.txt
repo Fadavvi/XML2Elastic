@@ -1,0 +1,4 @@
+python_nmap==0.6.1
+elasticsearch==6.3.0
+xmltodict==0.11.0
+nmap==0.0.1
