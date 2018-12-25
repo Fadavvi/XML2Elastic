@@ -3,15 +3,10 @@ Insert any XML file to Elastic Search ( I Used to send my Pentest results ZAP, N
 
 Usage:
 
-
-
-
+```python
 
 python3 scanner.py [http] [ES IP] [ES Port] [XML Path] [ES Index name]
-
-
-
-
-
+ ```
+```python
 python3 scanner.py [https] [ES IP] [ES Port] [XML Path] [ES Index name] [User Name] [Password] [Cert Path]
-          
+```
